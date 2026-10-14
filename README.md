@@ -1,6 +1,3 @@
-# Data-Automated-Auditor-Sheet
-An automated quality control sheet to audit public health data inputs and flag and filter any submission errors across thousands of rows
-Master Filter column to check filters of each column to reveal only columns with errors. 
-Multiple filter options, All errors, received over a week after collection, and received over a month after collection.
-Designed to flag red or yellow through custom conditional formats and to validate if they match possibilities with a different sheet.
-Submitter Numbers have been redacted though there is no protected information in the sheet.
+# Lab Worksheets and Auto Audit sheets created to help improve labs workflow and accuracy
+Automated Data Auditing Sheet flags most possible submitter errors so we can correct them before reporting. Can handle thousands of rows of data at a time.
+Autofill & Auto-calculation worksheets for PCR and Extraction can increase rate of work flow, accuracy on calculations, readability of documents and accuracy of sample names in the lab.
